@@ -1,2 +1,1 @@
-# Personal-portfolio
-Personal portfolio of Shambhavi Mallikarjuna
+# shambhzy.github.io
